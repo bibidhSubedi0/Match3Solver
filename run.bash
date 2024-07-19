@@ -1,0 +1,1 @@
+g++ -g main.cpp deck.cpp card.cpp Table.cpp -o run
